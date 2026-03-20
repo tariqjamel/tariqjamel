@@ -1,25 +1,41 @@
 <h1 align="center">Hi 👋, I'm Tariq Jamil</h1>
-<h3 align="center">🚀 Android Developer | Kotlin | Jetpack Compose | AI Enthusiast</h3>
+<h3 align="center">🚀 Android Developer | IoT Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Kotlin+Lover;Jetpack+Compose+UI;AI+Explorer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;IoT+Engineer;Jetpack+Compose+UI;AI+Explorer;ESP32+Projects&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tariqjamel&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 📱 I build Android apps using **Kotlin & Jetpack Compose**
-- 🤖 Interested in **AI + Mobile Apps**
-- 🌱 Currently learning **Machine Learning & Firebase**
-- 🔥 Working on real-world apps like Quran App & AI tools
+- 📱 Android Developer using **Kotlin & Jetpack Compose**
+- 🌐 IoT Developer working with **ESP32, Sensors & MQTT**
+- 🤖 Interested in **AI + Smart Applications**
+- 🔥 Building real-world projects combining **Mobile + IoT**
+- 🌱 Currently learning **Machine Learning & Cloud Integration**
 
 ---
 
 ## 🚀 Projects
-- 🤖 **AI Chatbot App** → Voice + Image + Text AI
-- 🌱 **Plant Analyzer** → Detect plant health using AI
-- 🌾 **Crop Analyzer** → Helps farmers analyze crops
-- 📖 **Quran App (Compose)** → Clean UI + features (in progress)
+- 🤖 **AI Chatbot App** → Voice + Image + Text AI interaction  
+- 🌱 **Plant Analyzer** → AI-based plant health detection  
+- 🌾 **Crop Analyzer** → Smart agriculture support system  
+- 📖 **Quran App (Compose)** → Modern UI + useful features *(in progress)*  
+- 🌡️ **IoT Weather Station** → ESP32 + Sensors (BH1750, BMP180, LDR)  
+
+---
+
+## 🌐 IoT & Embedded Systems
+
+- 🔌 **Microcontrollers:** ESP32, NodeMCU  
+- 📡 **Protocols:** MQTT, HTTP  
+- 🌡️ **Sensors:** BH1750 (Light), BMP180 (Pressure), LDR  
+- 🏠 **Integration:** Home Assistant, MQTT Broker (Mosquitto)  
+- 📊 Real-time data monitoring & transmission  
 
 ---
 
@@ -28,12 +44,15 @@
 ### 👨‍💻 Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 
 ### 📱 Mobile Development
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
-![Jetpack Compose](https://img.shields.io/badge/Compose-blue?style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-blue?style=for-the-badge)
 
-### 🔥 Backend & Tools
+### 🌐 IoT & Tools
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-purple?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
@@ -51,8 +70,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tariqjamel98/
+- 📧 Email: tariqjamel98@gmail.com
 
 ---
 
