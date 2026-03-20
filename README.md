@@ -41,9 +41,9 @@
 ---
 
 ## 🌐 IoT & Embedded Integration
-- 🔌 **Microcontrollers:** ESP32, NodeMCU  
+- 🔌 **Microcontrollers:** ESP32, PIC18, ArduinoUNO, STM32, Raspberry pi pico, MSP430, ESP32 cam
 - 📡 **Protocols:** MQTT, HTTP  
-- 🌡️ **Sensors:** BH1750 (Light), BMP180 (Pressure), LDR  
+- 🌡️ **Sensors:** MPU6050, MAX30102, TCS34750, MLX90614, BH1750 , BMP180, LDR e.t.c
 - 🏠 **Platforms:** Home Assistant, Mosquitto MQTT Broker  
 - 📊 Real-time monitoring, automation & smart systems  
 
