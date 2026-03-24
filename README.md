@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tariq Jamil</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hi, I'm Tariq Jamil
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+
 <h3 align="center">🚀 Android Developer | IoT & Embedded Systems Engineer | AI Explorer</h3>
 
 <p align="center">
@@ -16,6 +21,10 @@
 
 ## 🧑‍💻 About Me
 
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+
 I'm a passionate **Mobile & Embedded Systems Engineer** who loves building technology that bridges the digital and physical worlds. With expertise spanning Android development, IoT systems, and embedded programming, I create intelligent applications that solve real-world problems.
 
 - 📱 **Mobile Development:** Native Android with **Kotlin & Jetpack Compose** | Cross-platform with **Flutter**
@@ -24,106 +33,239 @@ I'm a passionate **Mobile & Embedded Systems Engineer** who loves building techn
 - 🔗 **Specialty:** Creating seamless connections between mobile apps and IoT devices
 - 🌱 **Currently Exploring:** Advanced ML models, Cloud Architecture, and Edge Computing
 
+<br clear="both"/>
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 📱 Mobile Applications
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **AI Chatbot App** | Multi-modal AI assistant with voice, image, and text interaction | Flutter, AI APIs |
-| **Plant Analyzer** | Real-time plant health detection using AI | Android, ML Kit, Camera |
-| **Crop Analyzer** | Smart agriculture support system for farmers | Flutter, TensorFlow Lite |
-| **Quran App** | Modern Islamic app with elegant UI (WIP) | Jetpack Compose, Kotlin |
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Chatbot App</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=AI+Chatbot+App" width="100%" alt="AI Chatbot App"/>
+        <p>
+          <strong>Multi-modal AI assistant with voice, image, and text interaction</strong><br/>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=openai&logoColor=white" />
+        </p>
+        <p>Interactive AI companion supporting multiple input methods with real-time responses.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌱 Plant Analyzer</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=Plant+Analyzer" width="100%" alt="Plant Analyzer"/>
+        <p>
+          <strong>Real-time plant health detection using AI</strong><br/>
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+          <img src="https://img.shields.io/badge/ML%20Kit-FF6B6B?style=flat&logo=google&logoColor=white" />
+        </p>
+        <p>Identify plant diseases and get care recommendations instantly with camera integration.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 Crop Analyzer</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=Crop+Analyzer" width="100%" alt="Crop Analyzer"/>
+        <p>
+          <strong>Smart agriculture support system for farmers</strong><br/>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+        </p>
+        <p>AI-powered crop analysis and yield prediction for better farming decisions.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📖 Quran App</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=Quran+App" width="100%" alt="Quran App"/>
+        <p>
+          <strong>Modern Islamic app with elegant UI</strong><br/>
+          <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+        </p>
+        <p>Beautiful Quran reading experience with audio, translations, and bookmarks (WIP).</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ### 🌡️ IoT & Embedded Systems
-- **IoT Weather Station:** ESP32-based environmental monitoring with BH1750, BMP180 sensors
-- **Smart Home Hub:** Home Assistant integration with MQTT automation
-- **Real-time Sensor Networks:** Data acquisition and processing from multiple sensors
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/3378/3378852.png" width="80px">
+        <br/>
+        <strong>IoT Weather Station</strong>
+        <br/>
+        ESP32 + BH1750 + BMP180
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/1687/1687504.png" width="80px">
+        <br/>
+        <strong>Smart Home Hub</strong>
+        <br/>
+        Home Assistant + MQTT
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="80px">
+        <br/>
+        <strong>Sensor Networks</strong>
+        <br/>
+        Real-time Data Processing
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🛠️ Technical Expertise
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,cpp,c,py" />
 </p>
 
 ### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,figma" />
 </p>
 
 ### 🔌 Embedded & IoT
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git" />
+</p>
+
+### 📊 Tech Stack Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqjamel&layout=donut&theme=radical&hide_border=true&title_color=2E9EF4&icon_color=2E9EF4" width="45%" />
 </p>
 
 ### 🎛️ Sensors & Hardware
-- **Motion:** MPU6050 (IMU)
-- **Health:** MAX30102 (Heart Rate/SpO2)
-- **Color:** TCS34750
-- **Temperature:** MLX90614 (Non-contact)
-- **Environmental:** BH1750 (Light), BMP180 (Pressure/Temp)
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlatformIO-FF7F2A?style=for-the-badge&logo=platformio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MPU6050-IMU-FF6B6B?style=flat-square&logo=arduino&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MAX30102-Heart%20Rate-4ECDC4?style=flat-square&logo=heart&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/TCS34750-Color-FFE66D?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MLX90614-Temperature-FF6B6B?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/BH1750-Light-4ECDC4?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/BMP180-Pressure-FFE66D?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tariqjamel&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqjamel&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tariqjamel&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF4&icon_color=2E9EF4" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqjamel&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF4&ring=2E9EF4&fire=2E9EF4&currStreakNum=FFFFFF" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqjamel&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tariqjamel&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔨 Building **AI-powered mobile applications** with on-device ML
-- 🌐 Developing **scalable IoT solutions** with cloud integration
-- 📚 Deepening knowledge in **system architecture & design patterns**
-- 🤝 Open to **collaborations** on innovative IoT & mobile projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100px">
+        <br/>
+        <strong>AI-Powered Mobile Apps</strong>
+        <br/>
+        On-device ML Integration
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100px">
+        <br/>
+        <strong>Scalable IoT Solutions</strong>
+        <br/>
+        Cloud Integration
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100px">
+        <br/>
+        <strong>System Architecture</strong>
+        <br/>
+        Design Patterns
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tariqjamel98/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0D1117" />
   </a>
   <a href="mailto:tariqjamel98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=0D1117" />
   </a>
   <a href="https://github.com/tariqjamel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=0D1117" />
   </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=0D1117" />
+  </a>
+</p>
+
+---
+
+## 🎵 Now Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=2E9EF4&bar_color_cover=false" width="400px">
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqjamel&theme=react-dark&bg_color=0D1117&color=2E9EF4&line=2E9EF4&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 ---
@@ -133,10 +275,14 @@ I'm a passionate **Mobile & Embedded Systems Engineer** who loves building techn
 </p>
 
 <p align="center">
-  <i>"Building bridges between code and reality, one project at a time."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=2E9EF4&gradientColorEnd=7F52FF" width="100%">
 </p>
 
----
-
-⭐️ **Feel free to explore my repositories and reach out for collaborations!**  
-*From [tariqjamel](https://github.com/tariqjamel)*
+<p align="center">
+  <i>"Building bridges between code and reality, one project at a time."</i>
+  <br/>
+  <br/>
+  ⭐️ **Feel free to explore my repositories and reach out for collaborations!**  
+  <br/>
+  <b>From <a href="https://github.com/tariqjamel">tariqjamel</a></b>
+</p>
