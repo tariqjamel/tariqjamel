@@ -21,10 +21,6 @@
 
 ## 🧑‍💻 About Me
 
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/man-with-beard-working-on-laptop-4865575-4056900.png">
-</p>
-
 I'm a passionate **Mobile & Embedded Systems Engineer** who loves building technology that bridges the digital and physical worlds. With expertise spanning Android development, IoT systems, and embedded programming, I create intelligent applications that solve real-world problems.
 
 - 📱 **Mobile Development:** Native Android with **Kotlin & Jetpack Compose** | Cross-platform with **Flutter**
@@ -32,8 +28,6 @@ I'm a passionate **Mobile & Embedded Systems Engineer** who loves building techn
 - 🤖 **AI Integration:** Building intelligent apps with machine learning capabilities
 - 🔗 **Specialty:** Creating seamless connections between mobile apps and IoT devices
 - 🌱 **Currently Exploring:** Advanced ML models, Cloud Architecture, and Edge Computing
-
-<br clear="both"/>
 
 ---
 
@@ -46,25 +40,39 @@ I'm a passionate **Mobile & Embedded Systems Engineer** who loves building techn
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI Chatbot App</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=AI+Chatbot+App" width="100%" alt="AI Chatbot App"/>
+        <a href="https://github.com/tariqjamel/Flutter-Chat-Bot" target="_blank">
+          <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=AI+Chatbot+App" width="100%" alt="AI Chatbot App"/>
+        </a>
         <p>
           <strong>Multi-modal AI assistant with voice, image, and text interaction</strong><br/>
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gemini%20AI-FF6B6B?style=flat&logo=google&logoColor=white" />
         </p>
-        <p>Interactive AI companion supporting multiple input methods with real-time responses.</p>
+        <p>Interactive AI companion supporting text, voice, and image queries with a premium Glassmorphic UI.</p>
+        <p>
+          <a href="https://github.com/tariqjamel/Flutter-Chat-Bot" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white" />
+          </a>
+        </p>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌱 Plant Analyzer</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=Plant+Analyzer" width="100%" alt="Plant Analyzer"/>
+        <a href="https://github.com/tariqjamel/Plant-Analyser" target="_blank">
+          <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=Plant+Analyzer" width="100%" alt="Plant Analyzer"/>
+        </a>
         <p>
           <strong>Real-time plant health detection using AI</strong><br/>
           <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
           <img src="https://img.shields.io/badge/ML%20Kit-FF6B6B?style=flat&logo=google&logoColor=white" />
         </p>
         <p>Identify plant diseases and get care recommendations instantly with camera integration.</p>
+        <p>
+          <a href="https://github.com/tariqjamel/Plant-Analyser" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white" />
+          </a>
+        </p>
       </div>
     </td>
   </tr>
@@ -91,6 +99,47 @@ I'm a passionate **Mobile & Embedded Systems Engineer** who loves building techn
           <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
         </p>
         <p>Beautiful Quran reading experience with audio, translations, and bookmarks (WIP).</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Weather App</h3>
+      <div align="center">
+        <a href="https://github.com/tariqjamel/Weather" target="_blank">
+          <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=Weather+App" width="100%" alt="Weather App"/>
+        </a>
+        <p>
+          <strong>Real-time weather updates for multiple cities</strong><br/>
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+          <img src="https://img.shields.io/badge/Room-3DDC84?style=flat&logo=android&logoColor=white" />
+          <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat" />
+        </p>
+        <p>Track weather in multiple cities with animated visuals and favorite cities management.</p>
+        <p>
+          <a href="https://github.com/tariqjamel/Weather" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 Chat App</h3>
+      <div align="center">
+        <a href="https://github.com/tariqjamel/Chat" target="_blank">
+          <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=Chat+App" width="100%" alt="Chat App"/>
+        </a>
+        <p>
+          <strong>Real-time messaging with secure authentication</strong><br/>
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+        </p>
+        <p>Secure sign-in with phone verification, profile personalization, and instant notifications.</p>
+        <p>
+          <a href="https://github.com/tariqjamel/Chat" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white" />
+          </a>
+        </p>
       </div>
     </td>
   </tr>
@@ -239,17 +288,6 @@ I'm a passionate **Mobile & Embedded Systems Engineer** who loves building techn
   <a href="https://github.com/tariqjamel">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=0D1117" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=0D1117" />
-  </a>
-</p>
-
----
-
-## 🎵 Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=2E9EF4&bar_color_cover=false" width="400px">
 </p>
 
 ---
@@ -279,7 +317,7 @@ I'm a passionate **Mobile & Embedded Systems Engineer** who loves building techn
 </p>
 
 <p align="center">
-  <i>"Building bridges between code and reality, one project at a time."</i>
+  <i>"Android and Embedded Developer writing code that speaks both human and machine languages."</i>
   <br/>
   <br/>
   ⭐️ **Feel free to explore my repositories and reach out for collaborations!**  
