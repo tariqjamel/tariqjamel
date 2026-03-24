@@ -22,7 +22,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/man-with-beard-working-on-laptop-4865575-4056900.png">
 </p>
 
 I'm a passionate **Mobile & Embedded Systems Engineer** who loves building technology that bridges the digital and physical worlds. With expertise spanning Android development, IoT systems, and embedded programming, I create intelligent applications that solve real-world problems.
