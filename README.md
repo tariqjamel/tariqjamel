@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   Hi, I'm Tariq Jamil
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <h3 align="center">🚀 Android Developer | IoT & Embedded Systems Engineer | AI Explorer</h3>
@@ -73,32 +72,6 @@ I'm a passionate **Mobile & Embedded Systems Engineer** who loves building techn
             <img src="https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white" />
           </a>
         </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌾 Crop Analyzer</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=Crop+Analyzer" width="100%" alt="Crop Analyzer"/>
-        <p>
-          <strong>Smart agriculture support system for farmers</strong><br/>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-        </p>
-        <p>AI-powered crop analysis and yield prediction for better farming decisions.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📖 Quran App</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/400x200/1E1E2E/FFFFFF?text=Quran+App" width="100%" alt="Quran App"/>
-        <p>
-          <strong>Modern Islamic app with elegant UI</strong><br/>
-          <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-        </p>
-        <p>Beautiful Quran reading experience with audio, translations, and bookmarks (WIP).</p>
       </div>
     </td>
   </tr>
